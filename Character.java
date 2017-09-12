@@ -1,5 +1,5 @@
 /**
- * @author Yashveer Singh
+ * @author Chris Muse
  * @version 1.0
  */
 public class Character implements Comparable<Character> {

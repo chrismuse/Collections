@@ -1,5 +1,5 @@
 /**
- * @author Yashveer Singh
+ * @author Chris Muse and Yashveer Singh
  * @version 1.0
  */
 public class TeamWrapper {

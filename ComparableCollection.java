@@ -2,7 +2,7 @@ import java.util.NoSuchElementException;
 import java.util.Iterator;
 
 /**
- * @author Yashveer Singh
+ * @author Chris Muse
  * @version 1.0
  * @param <T> a Comparable generic type
  */
